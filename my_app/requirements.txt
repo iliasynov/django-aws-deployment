@@ -1,0 +1,5 @@
+Django==5.1.4
+pillow
+gunicorn
+python-decouple
+psycopg2-binary
